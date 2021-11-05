@@ -1,0 +1,11 @@
+header {
+  width: 100%;
+}
+
+body {
+  font-size: 20px;
+}
+body div {
+  font-size: 10px;
+  background: #367015;
+}
